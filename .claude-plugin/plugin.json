@@ -1,0 +1,10 @@
+{
+  "name": "mock-interview-skill",
+  "description": "Five Claudes interview you for any job from the real job post (a recruiter, the hiring manager and the team lead ask real questions one at a time), then a grader scores every answer and a coach rewrites your weakest ones.",
+  "version": "1.0.0",
+  "author": {"name": "Alex Chen", "url": "https://chen.media"},
+  "homepage": "https://chen.media/guides/practice-any-job-interview-with-5-claudes-first-free-mock-interview-skill",
+  "repository": "https://github.com/alexyc9381/mock-interview-skill",
+  "license": "MIT",
+  "keywords": ["claude-code", "claude-skills", "interview", "job-search", "mock-interview", "career"]
+}

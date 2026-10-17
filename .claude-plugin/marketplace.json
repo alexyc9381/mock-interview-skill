@@ -1,0 +1,7 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "mock-interview-skill",
+  "description": "The mock interview skill for Claude Code",
+  "owner": {"name": "Alex Chen"},
+  "plugins": [{"name": "mock-interview-skill", "description": "Five Claudes interview you for any job from the real job post, then grade every answer and rewrite your weakest ones.", "source": "./", "category": "productivity", "author": {"name": "Alex Chen", "url": "https://chen.media"}, "homepage": "https://chen.media/guides/practice-any-job-interview-with-5-claudes-first-free-mock-interview-skill"}]
+}

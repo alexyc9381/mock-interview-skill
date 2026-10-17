@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you show this in a video, post, article or paper, please credit it as below and tag @nocodealex."
+type: software
+title: "mock-interview-skill: five Claudes interview you for any job before the real one"
+abstract: "A free Claude Code skill: a recruiter, a hiring manager and a team lead built from a real job post interview you one question at a time, then a grader scores every answer and a coach rewrites the weakest ones."
+authors:
+  - given-names: Alex
+    family-names: Chen
+    alias: nocodealex
+    website: "https://chen.media"
+repository-code: "https://github.com/alexyc9381/mock-interview-skill"
+license: MIT
+version: "1.0.0"
+date-released: "2026-10-17"
+keywords:
+  - claude-code
+  - claude-skills
+  - interview
+  - job-search
